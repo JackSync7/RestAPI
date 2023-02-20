@@ -1,0 +1,31 @@
+.App{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+
+.information {
+   display: flex;
+   flex-direction: column;
+    justify-content: center;
+    width: 100%;
+    align-items: center;
+}
+
+.information input{
+  width: 350px;
+  height: 40px;
+  padding-left: 10px;
+  font-size: 20px;
+}
+
+.information button{
+  width: 250px;
+  height: 40px;
+  margin-top: 20px;
+  background-color: darkslategray;
+  color:aliceblue;
+  border-radius: 5px;
+  
+}
